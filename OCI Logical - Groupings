@@ -1,0 +1,32 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#181615&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size: 12px&amp;quot;&amp;gt;Oracle Cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Oracle Sans;fontSize=11;align=center;arcSize=10;verticalAlign=top;spacingRight=5;fontColor=#312D2A;fillColor=#F5F4F2;strokeColor=#9E9892;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"110\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 110,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#181615&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size: 12px&amp;quot;&amp;gt;Internet&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Oracle Sans;fontSize=11;align=center;arcSize=10;verticalAlign=top;spacingRight=5;fontColor=#312D2A;fillColor=#F5F4F2;strokeColor=#9E9892;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"110\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 110,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#181615&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size: 12px&amp;quot;&amp;gt;On-Premises&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Oracle Sans;fontSize=11;align=center;arcSize=10;verticalAlign=top;spacingRight=5;fontColor=#312D2A;fillColor=#F5F4F2;strokeColor=#9E9892;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"110\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 110,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#181615&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size: 12px&amp;quot;&amp;gt;3rd Party Cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Oracle Sans;fontSize=11;align=center;arcSize=10;verticalAlign=top;spacingRight=5;fontColor=#312D2A;fillColor=#F5F4F2;strokeColor=#9E9892;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"110\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 110,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size: 12px&amp;quot;&amp;gt;Other Group&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Oracle Sans;fontSize=11;fontColor=#312D2A;align=center;dashed=1;fillColor=none;verticalAlign=top;arcSize=10;strokeColor=#312D2A;strokeWidth=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"109\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 109,
+    "h": 50,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
